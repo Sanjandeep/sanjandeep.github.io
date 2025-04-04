@@ -5,7 +5,7 @@
 </head>
 <body>
     <header>
-        <h1>Hi! I am Sanjandeep</h1>
+        <h1>My Portfolio</h1>
         <nav>
             <ul>
                 <li><a href="#about">About</a></li>
